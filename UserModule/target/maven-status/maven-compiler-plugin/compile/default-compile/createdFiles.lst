@@ -1,0 +1,4 @@
+com\user\model\UserSignUp.class
+com\user\UserModuleApplication.class
+com\user\controller\UserSignUpController.class
+service\UserSignUpService.class
